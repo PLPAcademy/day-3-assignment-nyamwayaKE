@@ -16,7 +16,6 @@ D) dart --version
 
 3. What is the next step after downloading and extracting the Flutter SDK on Linux?
 
-
 B) Update your PATH
 
 4. What command is used to run a newly created Flutter app?
